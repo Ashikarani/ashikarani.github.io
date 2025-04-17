@@ -1,0 +1,40 @@
+# Project 1: Stock Trend Analysis Using Moving Averages
+
+## 📌 Overview
+A beginner-friendly data analysis project focused on analyzing stock price trends using Python. This project uses moving averages to identify buy/sell signals and visualize patterns.
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+## 📊 Objective
+To analyze historical stock price data and determine simple strategies for identifying trends using:
+- Simple Moving Average (SMA)
+- Exponential Moving Average (EMA)
+
+## 📁 Dataset
+- Source: Yahoo Finance (e.g., TCS or Reliance)
+- Data range: Last 1 year (CSV format)
+
+## 🧠 Key Steps
+1. Imported and cleaned historical stock data
+2. Calculated SMA and EMA
+3. Visualized stock price with overlaid moving averages
+4. Simulated entry/exit points for a basic strategy
+
+## 📌 Results
+- Developed a clear understanding of how moving averages work
+- Identified ideal crossover points as potential trade signals
+
+## 🧩 Learning Outcomes
+- Improved data cleaning and time-series plotting skills
+- Strengthened understanding of financial indicators
+
+## 📎 GitHub Link (optional)
+Link to Jupyter Notebook (Coming soon...)
+
+---
+
+📢 *This is just the beginning! More projects will be added soon as I grow my portfolio.*
