@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>A.R.K. Ashika Rani - Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f9f9f9; margin: 0; padding: 0; color: #333; }
+    header { background-color: #003366; color: white; padding: 20px; text-align: center; }
+    section { padding: 30px; max-width: 900px; margin: auto; }
+    h2 { color: #003366; }
+    .skills, .certifications, .projects { margin-top: 15px; }
+    footer { background: #003366; color: white; text-align: center; padding: 15px; }
+    a { color: #0066cc; text-decoration: none; }
+    .button { background: #003366; color: white; padding: 10px 15px; border-radius: 5px; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>A.R.K. Ashika Rani</h1>
+    <p>Email: ashikakrish129@gmail.com | Phone: +91 8489090479</p>
+    <p><a href="https://linkedin.com/in/ashikarani" target="_blank">LinkedIn Profile</a></p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Aspiring Data Scientist with a background in Civil Engineering and hands-on experience in Python, Data Analysis, and Machine Learning. Open to internships and entry-level roles in data science and analytics.</p>
+
+    <h2>Skills</h2>
+    <div class="skills">
+      <ul>
+        <li>Python, C, C++</li>
+        <li>Pandas, NumPy, Matplotlib, Scikit-learn</li>
+        <li>SEO Copywriting, AutoCAD, MS Office</li>
+        <li>Share Market Trading</li>
+      </ul>
+    </div>
+
+    <h2>Certifications</h2>
+    <div class="certifications">
+      <ul>
+        <li>SEBI Investor Certification (NISM 2025)</li>
+        <li>GATE Geomatics AIR-612 (2022)</li>
+        <li>NPTEL: Concrete Structures (62%)</li>
+        <li>NPTEL: Environmental Engineering (73%)</li>
+      </ul>
+    </div>
+
+    <h2>Projects</h2>
+    <div class="projects">
+      <p>Coming soon... (You'll update this section as you complete projects)</p>
+    </div>
+
+    <h2>Resume</h2>
+    <p><a href="DataScience_Resume_AshikaRani.pdf" class="button" download>Download My Resume (PDF)</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 A.R.K. Ashika Rani | Built with love & GitHub Pages</p>
+  </footer>
+
+</body>
+</html>
